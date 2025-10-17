@@ -24,6 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
+[ex-1,cd.pdf](https://github./user-attachments/files/22978943/ex-1.cd.pdf)
 
 
 
