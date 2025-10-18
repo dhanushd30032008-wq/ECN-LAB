@@ -24,6 +24,24 @@
 
 **CIRCUIT DIAGRAM:**
 
+[ex-1,cd.pdf](https://github.com/user-attachments/files/22982881/ex-1.cd.pdf)
+
+**TABULATION:**
+
+[ex-1.si.tb.pdf](https://github.com/user-attachments/files/22982882/ex-1.si.tb.pdf)
+
+**CALCULATION:**
+
+[ex-1.si.calci.pdf](https://github.com/user-attachments/files/22982891/ex-1.si.calci.pdf)
+
+[-ex-1.si.calci-2-.pdf](https://github.com/user-attachments/files/22982892/-ex-1.si.calci-2-.pdf)
+
+
+
+
+
+
+
 
 
 
