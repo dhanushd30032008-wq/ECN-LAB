@@ -24,7 +24,13 @@
 
 **CIRCUIT DIAGRAM:**
 
-![image](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/c291eeffa01eccaa0bafbf7f7012e2567ba7759f/ex-1%2Csi-cd%5B1%5D.pdf)
+![image cd](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/c291eeffa01eccaa0bafbf7f7012e2567ba7759f/ex-1%2Csi-cd%5B1%5D.pdf)
+
+**CALCULATION:**
+
+![image cal1](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/b7c058eeb2dcefa1b34637167b246962b0dcf42b/ex-1.si.calci%5B1%5D.pdf)
+
+![image
 
 
 
