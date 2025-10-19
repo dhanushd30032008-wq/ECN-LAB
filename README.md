@@ -32,20 +32,6 @@
 
 ![image cal2](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/c291eeffa01eccaa0bafbf7f7012e2567ba7759f/-ex-1.si.calci-2-%5B1%5D.pdf)
 
-**TABULATION:**
-
-![image 1tb](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/98dfb2f7754af0cb24030599ed191bc1de5d94ab/ex-1.si.tb%5B1%5D.pdf)
-
-
-
-
-
-
-
-
-
-
-
 
 
 **PROCEDURE:**
@@ -62,6 +48,13 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
+ **TABULATION:**
+
+![image 1tb](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/98dfb2f7754af0cb24030599ed191bc1de5d94ab/ex-1.si.tb%5B1%5D.pdf)
+
+**MARK SPLIT UP:**
+
+![image msu1]
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
