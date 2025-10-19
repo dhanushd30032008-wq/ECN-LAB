@@ -24,6 +24,8 @@
 
 **CIRCUIT DIAGRAM:**
 
+![image alt](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/c291eeffa01eccaa0bafbf7f7012e2567ba7759f/ex-1%2Csi-cd%5B1%5D.pdf)
+
 
 
 
