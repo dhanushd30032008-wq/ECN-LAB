@@ -34,6 +34,8 @@
 
 **TABULATION:**
 
+![image 1tb](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/98dfb2f7754af0cb24030599ed191bc1de5d94ab/ex-1.si.tb%5B1%5D.pdf)
+
 
 
 
