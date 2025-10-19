@@ -54,7 +54,9 @@
 
 **MARK SPLIT UP:**
 
-![image msu1]
+![image msu1](https://github.com/dhanushd30032008-wq/ECN-LAB/blob/f3a6017b83d59882f3f1ac2149394545c7c138d4/ex_1.msu%5B1%5D.pdf)
+
+
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
